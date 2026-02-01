@@ -4,3 +4,5 @@ The Manager of company wants a detailed report from human resource department ab
 ## Dataset Used
 - <a href="https://github.com/datasctraveller/hr-workforce-dashboard/blob/main/hr_dataset_300_unique_names.xlsx">Hr Dataset </a>
 
+# Dashboard Interaction <a href="https://github.com/datasctraveller/hr-workforce-dashboard/blob/main/hr-dashboard.JPG">View Dashboard</a>
+
