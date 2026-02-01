@@ -25,5 +25,6 @@ The Manager of company wants a detailed report from human resource department ab
 - I have created pivot tables according to the above questions.
 - Merge all the pivot tables in the dashboard and apply slider to make dynamic. 
 ## Dashboard
+![hr-dashboard](https://github.com/user-attachments/assets/42f32a89-4898-497f-b0c9-e6ac7c7765c2)
 
 
