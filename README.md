@@ -26,5 +26,9 @@ The Manager of company wants a detailed report from human resource department ab
 - Merge all the pivot tables in the dashboard and apply slider to make dynamic. 
 ## Dashboard
 ![hr-dashboard](https://github.com/user-attachments/assets/42f32a89-4898-497f-b0c9-e6ac7c7765c2)
-
+## Project Insight
+-  The total number employee is 300. The number of active employee is 161, and the number of separated employee is 139
+-  Steven Jackson is most highest paid employee. his salary is $94.712.
+-  
+## Final Conclusion
 
