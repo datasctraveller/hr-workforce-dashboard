@@ -17,3 +17,13 @@ The Manager of company wants a detailed report from human resource department ab
 - what is the average salary of high performering workers by department?
 # Dashboard Interaction <a href="https://github.com/datasctraveller/hr-workforce-dashboard/blob/main/hr-dashboard.JPG">View Dashboard</a>
 
+## Process
+- Check for duplicated values such as employee id and another columns values.
+- Combine name and surname in a fullname column.
+- Check for blank values in the dataset.
+- Edit the hire date column format and the salary's currency.
+- I have created pivot tables according to the above questions.
+- Merge all the pivot tables in the dashboard and apply slider to make dynamic. 
+## Dashboard
+
+
