@@ -29,6 +29,10 @@ The Manager of company wants a detailed report from human resource department ab
 ## Project Insight
 -  The total number employee is 300. The number of active employee is 161, and the number of separated employee is 139
 -  Steven Jackson is most highest paid employee. his salary is $94.712.
--  
+-  The departments with the highest average salaries are marketing, Hr, and IT.
+-  The company's average performance score is 3.00. The average score of the Sales, operations, marketing departments  greater than 3.00.
+-  The age group (41-50) has the highest number of the separated employees in the company.
+-  The difference between female and male average salaries for the Manager job title is greater than for other job titles.
+-  The top three departments with the highest average salaries and the best performing separated employees are sales, operations, hr
 ## Final Conclusion
 
