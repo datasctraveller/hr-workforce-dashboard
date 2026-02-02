@@ -35,4 +35,5 @@ The Manager of company wants a detailed report from human resource department ab
 -  The difference between female and male average salaries for the Manager job title is greater than for other job titles.
 -  The top three departments with the highest average salaries and the best performing separated employees are sales, operations, hr
 ## Final Conclusion
+The total number employee separation rate is %46 in the company, and It looks high value. The salary difference between man and woman in The manager and the specialist job title is greater than for other job titles. Although HR,and IT departments have the highest average salaries, their performance scores are lower than company's average score. The age group(41-50) has the highest number of employees with attrition in the company. 
 
